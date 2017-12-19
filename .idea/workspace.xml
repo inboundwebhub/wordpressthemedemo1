@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/wp-content/themes/kreative/front-page.php" line="393" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="132d368b-46ee-42fe-8d29-6ab5dc2cede8" name="Default" comment="" />
+    <ignored path="Kreative101wp.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <pharPath>/Applications/AMPPS/www/composer_2.phar</pharPath>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Kreative101wp" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/kreative/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7575">
+              <caret line="238" column="9" selection-start-line="238" selection-start-column="9" selection-end-line="238" selection-end-column="9" />
+              <folding>
+                <element signature="e#6#197#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/kreative/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/landing page.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/landing_page.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/custom-manage-columns.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/contact-form-7.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/wp-config.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/pilot-plants.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/contact.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/homepage.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/custom-functions.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/functions.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/class-custom-contactus-widget.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/directory.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/product-template.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/full-width.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/single-lauderhill_directory.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/taxonomy-lauderhill_directory_tax.php" />
+        <option value="$PROJECT_DIR$/wp-config.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/listing-template.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/kreative/css/base.css" />
+        <option value="$PROJECT_DIR$/../Kreative101/index.html" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/public-script.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/kreative/page-template/blog.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/kreative/single.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/style.css" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/footer.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/service_template.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/gallery-template.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/home-template.php" />
+        <option value="$PROJECT_DIR$/../inboundwebhub/.htaccess" />
+        <option value="$PROJECT_DIR$/wp-content/themes/kreative/header.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/General-template.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/order-online-template.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/kreative/includes/custom-functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/kreative/front-page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/kreative/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/kreative/functions.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1612" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Kreative101wp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="coverage" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Ampps\www\Kreative101wp\wp-content\themes\kreative" />
+      <recent name="C:\Ampps\www\Kreative101wp\wp-content\themes\kreative\page-template" />
+      <recent name="C:\Ampps\www\Kreative101wp\wp-content\themes\kreative\includes" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" myUseAcceleration="nothing" SSL_PROTOCOLS="sslv3">
+    <configuration useDefault="false">$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="132d368b-46ee-42fe-8d29-6ab5dc2cede8" name="Default" comment="" />
+      <created>1511438306337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511438306337</updated>
+      <workItem from="1511438308038" duration="8152000" />
+      <workItem from="1511535147951" duration="30000" />
+      <workItem from="1511760346096" duration="13020000" />
+      <workItem from="1511847899457" duration="10440000" />
+      <workItem from="1511934516479" duration="1201000" />
+      <workItem from="1512020502654" duration="4054000" />
+      <workItem from="1513156679015" duration="12741000" />
+      <workItem from="1513229493638" duration="6248000" />
+      <workItem from="1513316074094" duration="15819000" />
+      <workItem from="1513396112309" duration="10268000" />
+      <workItem from="1513408244960" duration="12522000" />
+      <workItem from="1513577673662" duration="388000" />
+      <workItem from="1513584038632" duration="14509000" />
+      <workItem from="1513661367994" duration="666000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="110058000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1612" height="876" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17396908" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5025773" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293011" sideWeight="0.4974227" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.78763443" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19007732" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.78763443" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/contact-form-7.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/pilot-plants.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/contact.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/homepage.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kreative/inc/customizer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="112" column="12" selection-start-line="112" selection-start-column="12" selection-end-line="112" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/functions.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/custom-functions.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/class-custom-contactus-widget.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/directory.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/product-template.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/home-page.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/taxonomy-lauderhill_directory_tax.php" />
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/listing-template.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/single-lauderhill_directory.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kreative/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4092">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/functions.wp-scripts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="263" column="9" selection-start-line="263" selection-start-column="9" selection-end-line="263" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="2623" column="9" selection-start-line="2623" selection-start-column="9" selection-end-line="2623" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="459" column="0" selection-start-line="459" selection-start-column="0" selection-end-line="459" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Kreative101/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="77" column="22" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kreative/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="136" column="22" selection-start-line="136" selection-start-column="22" selection-end-line="136" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kreative/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/public-script.js" />
+    <entry file="file://$PROJECT_DIR$/../Kreative101/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="250" column="0" selection-start-line="66" selection-start-column="2" selection-end-line="250" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Kreative101/blog-single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="333" column="32" selection-start-line="66" selection-start-column="2" selection-end-line="333" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kreative/page-template/blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kreative/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/style.css" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/contact_template.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/service_template.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/gallery-template.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/home-template.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/footer.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/cart-totals.php" />
+    <entry file="file://$PROJECT_DIR$/../inboundwebhub/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="11" selection-start-line="1" selection-start-column="0" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/l10n.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="704" column="9" selection-start-line="704" selection-start-column="9" selection-end-line="704" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../inboundwebhub/wp-content/plugins/awesome-filterable-portfolio/afp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kreative/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/optimized_contents/css/structure.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1225">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/optimized_contents/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/General-template.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/order-online-template.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/full-width.php" />
+    <entry file="file://$PROJECT_DIR$/../Kreative101/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="708" column="18" selection-start-line="708" selection-start-column="18" selection-end-line="708" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kreative/front-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="433" column="48" selection-start-line="433" selection-start-column="36" selection-end-line="433" selection-end-column="48" />
+          <folding>
+            <element signature="e#6#280#0#PHP" expanded="true" />
+            <element signature="e#2404#3655#0#HTML" expanded="false" />
+            <element signature="e#3806#7217#0#HTML" expanded="false" />
+            <element signature="e#7327#9753#0#HTML" expanded="false" />
+            <marker date="1513601481117" expanded="true" signature="15540:15618" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kreative/includes/custom-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="311" column="18" selection-start-line="311" selection-start-column="18" selection-end-line="311" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kreative/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7575">
+          <caret line="238" column="9" selection-start-line="238" selection-start-column="9" selection-end-line="238" selection-end-column="9" />
+          <folding>
+            <element signature="e#6#197#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/kreative/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
